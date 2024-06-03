@@ -1,2 +1,0 @@
-2
-"Change the number above to change the asinh(x)"
